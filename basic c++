@@ -1,0 +1,13 @@
+//to write the comment in single line
+/*to write the comments in multiple lines
+in case the comment is too long*/
+#include <ionstream> //required for cout, endl etc.
+#include <cmath> //required for sqrt(),pwr(x,y) etc.
+
+//define the global variables
+double x=1, y=5, z=10;
+
+int main() //main function
+{
+//declare local variables
+double 
